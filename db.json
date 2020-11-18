@@ -1,8 +1,8 @@
 {
-  products: [
+  "products": [
     {
-      name: "book",
-      type: "book"
+      "name": "book",
+      "type": "book"
     }
   ]
 }
