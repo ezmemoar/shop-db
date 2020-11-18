@@ -1,8 +1,25 @@
 {
   "products": [
     {
-      "name": "book",
-      "type": "book"
-    }
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81tjLksKixL._AC_SL1500_.jpg",
+      "price": "1200000",
+      "category": "electronics",
+      "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop To get set up, connect the portable hard drive to a computer for automatic recognition no software required This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable Enjoy long-term peace of mind with the included one-year limited warranty and one-year Rescue Data Recovery Services"
+    },
+    {
+      "name": "iPhone Flash Drive 256GB Memory Stick for iOS Photo Stick USB 3.0 Thumb Drive alisinsen Jump Drive",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Qh72QMzhL._AC_SL1500_.jpg",
+      "price": "500000",
+      "category": "electronics",
+      "description": "3 in 1 USB 3.0 --- USB Flash Drive offer 3 ports:IOS, Micro USB & USB 3.0, Memory Photo Stick for iPhone External Storage offers a quick .Make it easier for you to transfer files, photos and videos between your iphone /ipad / Macbook /laptop and computer. No need to use cloud services. USB flash drive iPhone memory stick supports all iPhone series, iPad/iPod series, Mac/PC and all most android devices."
+    },
+    {
+      "name": "Unlisted by Kenneth Cole Men's Dress Shirt Slim Fit Checks and Stripes",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Qh72QMzhL._AC_SL1500_.jpg",
+      "price": "500000",
+      "category": "clothing",
+      "description": "3 in 1 USB 3.0 --- USB Flash Drive offer 3 ports:IOS, Micro USB & USB 3.0, Memory Photo Stick for iPhone External Storage offers a quick .Make it easier for you to transfer files, photos and videos between your iphone /ipad / Macbook /laptop and computer. No need to use cloud services. USB flash drive iPhone memory stick supports all iPhone series, iPad/iPod series, Mac/PC and all most android devices."
+    },
   ]
 }
