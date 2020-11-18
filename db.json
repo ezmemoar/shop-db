@@ -1,1 +1,8 @@
-
+{
+  products: [
+    {
+      name: "book",
+      type: "book"
+    }
+  ]
+}
