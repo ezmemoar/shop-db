@@ -8,45 +8,5 @@
       "category": "electronics",
       "description": "Easily store and access 2TB to content on the go with the Seagate Portable Drive, a USB external hard drive Designed to work with Windows or Mac computers, this external hard drive makes backup a snap just drag and drop To get set up, connect the portable hard drive to a computer for automatic recognition no software required This USB drive provides plug and play simplicity with the included 18 inch USB 3.0 cable Enjoy long-term peace of mind with the included one-year limited warranty and one-year Rescue Data Recovery Services"
     },
-    {
-      "id": 2,
-      "name": "iPhone Flash Drive 256GB Memory Stick for iOS Photo Stick USB 3.0 Thumb Drive alisinsen Jump Drive",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Qh72QMzhL._AC_SL1500_.jpg",
-      "price": "500000",
-      "category": "electronics",
-      "description": "3 in 1 USB 3.0 --- USB Flash Drive offer 3 ports:IOS, Micro USB & USB 3.0, Memory Photo Stick for iPhone External Storage offers a quick .Make it easier for you to transfer files, photos and videos between your iphone /ipad / Macbook /laptop and computer. No need to use cloud services. USB flash drive iPhone memory stick supports all iPhone series, iPad/iPod series, Mac/PC and all most android devices."
-    },
-    {
-      "id": 3,
-      "name": "Unlisted by Kenneth Cole Men's Dress Shirt Slim Fit Checks and Stripes",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/91Y2IOHgprL._AC_UY500_.jpg",
-      "price": "120000",
-      "category": "clothing",
-      "description": "60% Cotton, 40% Polyester, Imported, Button closure."
-    },
-    {
-      "id": 4,
-      "name": "Munchkin Miracle 360 Trainer Cup, Green/Blue, 7 Oz, 2 Count",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/718QtcfYm8L._SL1500_.jpg",
-      "price": "70000",
-      "category": "feeding",
-      "description": "Set of (2) 7 ounce toddler cups with dentist recommended spoutless design."
-    },
-    {
-      "id": 5,
-      "name": "WowWee Pinkfong Baby Shark Official Song Cube - Baby Shark",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/71fw5Z2CBHL._AC_SL1500_.jpg",
-      "price": "30000",
-      "category": "toys",
-      "description": "Produced by WowWee for Pinkfong, official creator of the global hit song Baby Shark!"
-    },
-    {
-      "id": 6,
-      "name": "Bedtime Originals Twinkle Toes Pink Elephant Plush, Hazel",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZB62prn-L._AC_SL1500_.jpg",
-      "price": "50000",
-      "category": "toys",
-      "description": "Polyester, Imported, Machine Washable."
-    },
   ],
 }
