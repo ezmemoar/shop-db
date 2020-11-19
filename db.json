@@ -39,14 +39,6 @@
       "price": "30000",
       "category": "toys",
       "description": "Produced by WowWee for Pinkfong, official creator of the global hit song Baby Shark!"
-    },
-    {
-      "id": 6,
-      "name": "Bedtime Originals Twinkle Toes Pink Elephant Plush, Hazel",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/81ZB62prn-L._AC_SL1500_.jpg",
-      "price": "50000",
-      "category": "toys",
-      "description": "Polyester, Imported, Machine Washable."
     }
   ]
 }
