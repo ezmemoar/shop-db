@@ -48,5 +48,15 @@
       "category": "toys",
       "description": "Polyester, Imported, Machine Washable."
     }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category_name": "electronics"
+    },
+    {
+      "id": 2,
+      "category_name": "toys"
+    }
   ]
 }
