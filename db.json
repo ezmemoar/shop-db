@@ -63,7 +63,7 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/81ZB62prn-L._AC_SL1500_.jpg",
       "price": {
         "default": "50000",
-        "human_format": "50000"
+        "human_format": "50.000"
       },
       "category": "toys",
       "description": "Polyester, Imported, Machine Washable."
