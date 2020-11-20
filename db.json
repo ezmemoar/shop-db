@@ -57,6 +57,14 @@
     {
       "id": 2,
       "category_name": "toys"
-    }
+    },
+    {
+      "id": 3,
+      "category_name": "clothing"
+    },
+    {
+      "id": 4,
+      "category_name": "feeding"
+    },
   ]
 }
